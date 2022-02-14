@@ -8,7 +8,7 @@ class Filechange
     end
 
     def process()
-        "#{first_name} | #{last_name} | #{age} \r"
+        "#{first_name} | #{last_name} | #{age}"
     end
 
     def write(content)
